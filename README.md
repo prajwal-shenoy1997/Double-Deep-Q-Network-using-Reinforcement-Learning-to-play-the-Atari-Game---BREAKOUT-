@@ -1,1 +1,1 @@
-# Deep Reinforcement Learning with Double Q-Learning Model to play the Atari Game Breakout
+# Playing Atari Game-Breakout with Deep Reinforcement Learning using Double Q-Learning model
